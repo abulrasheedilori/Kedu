@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MVVMApp</string>
+    <string name="image_logo">image logo</string>
+    <string name="kedu">kedu</string>
+    <string name="add_post">add post</string>
+    <string name="ilori_ayomide">ilori ayomide</string>
+    <string name="good_morning_breeze">good morning breeze</string>
+    <string name="body_text">body text</string>
+    <string name="body">"body text so many things are wrong in this country. Our leaders are embezzling money that belong to all of us while children are growing up with hunger. Very soon, the children will grow into hardened criminals and prostitute and start killing people for daily needs as a means of surving. If everyone has equal opportunities, then we all can find our foot to where each of us belong. "</string>
+    <string name="image">image</string>
+    <string name="detailed_page">DETAILED PAGE</string>
+    <string name="id_1">ID: 1</string>
+    <string name="user_id_1">USER ID: 1</string>
+    <string name="title_buhari_is_dead">TITLE: Buhari is Dead</string>
+    <string name="comment">COMMENT:</string>
+    <string name="comment_s">Comments</string>
+    <string name="todo">TODO</string>
+    <string name="userId">Input your user Id here</string>
+    <string name="title">Title</string>
+    <string name="id">Id</string>
+    <string name="say_your_mind">Say Your Mind</string>
+    <string name="type_you_post_body_here">Type you post body here</string>
+    <string name="commentTitle">Add Your Comments Here</string>
+    <string name="post_id">Post Id</string>
+    <string name="name">name</string>
+    <string name="comment_body">Type your comment here</string>
+</resources>
